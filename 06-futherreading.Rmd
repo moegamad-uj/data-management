@@ -269,3 +269,12 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 > Contributor: Arwenn
 
+---
+
+## “Ten Years of Sharing Reproducible Research” by Limor Peer, PhD (Yale University)
+
+This article reflects on a decade of advancements in promoting reproducibility in research, especially the challenges and successes of Yale’s ISPS Data Archive. It addresses the challenges faced when trying to reuse shared data and code, especially the common obstacles such as poor documentation, software incompatibility, and computational failures that may hinder reproducibility. Curators as well as their importance in ensuring long-term accessibility is also highlighted alongside YARD, a workflow tool that enhances data curation and verification. Open science initiatives and journal policies have improved reproducibility; however, challenges remain, such maintaining functional code over time and integrating automation with human oversight. This piece offers valuable insights into the evolving landscape of research transparency and the critical role of structured data stewardship.
+
+Link: https://researchdataq.org/editorials/ten-years-of-sharing-reproducible-research/ 
+
+> Contributor: Moegamad Uzair Jack
